@@ -10,6 +10,7 @@ int main() {
 
     // In ra kết quả
     cout << "Hieu: " << diff << endl;
-
+    
     return 0;
+    Sửa trên file được mà nhỉ
 }
