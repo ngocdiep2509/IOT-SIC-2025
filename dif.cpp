@@ -7,9 +7,10 @@ int main() {
 
     // Tính hiệu
     int diff = a - b - c;
-
+    //Tính tổng
+    int tong= a+b+c;
     // In ra kết quả
     cout << "Hieu: " << diff << endl;
-
+    cout<< "Tong:"<<tong<<endl;
     return 0;
 }
