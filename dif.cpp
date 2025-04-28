@@ -7,7 +7,7 @@ int main() {
 
     // Tính hiệu
     int diff = a - b - c;
-
+    //sua
     // In ra kết quả
     cout << "Hieu: " << diff << endl;
 
